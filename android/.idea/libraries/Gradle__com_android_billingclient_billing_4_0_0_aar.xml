@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.billingclient:billing:4.0.0@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/2657d978df5ff5b581a5b83642243f98/transformed/jetified-billing-4.0.0/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/30619828ac273f0f7e16ba356332b97f/transformed/jetified-billing-4.0.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/30619828ac273f0f7e16ba356332b97f/transformed/jetified-billing-4.0.0/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/30619828ac273f0f7e16ba356332b97f/transformed/jetified-billing-4.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/30619828ac273f0f7e16ba356332b97f/transformed/jetified-billing-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d0ef9a624a49abb74999f117bb802aec/transformed/jetified-billing-4.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d0ef9a624a49abb74999f117bb802aec/transformed/jetified-billing-4.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d0ef9a624a49abb74999f117bb802aec/transformed/jetified-billing-4.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/modules-2/files-2.1/com.android.billingclient/billing/4.0.0/cb57948320e32ab49be0258bd18efd3f5baed3d7/billing-4.0.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.billingclient/billing/4.0.0/cb57948320e32ab49be0258bd18efd3f5baed3d7/billing-4.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

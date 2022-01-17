@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.revenuecat.purchases:purchases-core-common:4.3.1@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/bf1602da9acd75baeee05307ee0324bc/transformed/jetified-purchases-core-common-4.3.1/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/eb1fcc79ea558eb66422e86348b61310/transformed/jetified-purchases-core-common-4.3.1/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/eb1fcc79ea558eb66422e86348b61310/transformed/jetified-purchases-core-common-4.3.1/AndroidManifest.xml" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/eb1fcc79ea558eb66422e86348b61310/transformed/jetified-purchases-core-common-4.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eb1fcc79ea558eb66422e86348b61310/transformed/jetified-purchases-core-common-4.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aaff5fd8d46cdd72b75837ea16edd2a9/transformed/jetified-purchases-core-common-4.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aaff5fd8d46cdd72b75837ea16edd2a9/transformed/jetified-purchases-core-common-4.3.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/aaff5fd8d46cdd72b75837ea16edd2a9/transformed/jetified-purchases-core-common-4.3.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-common/4.3.1/1aac6f79b12dbbc4137323470eb7f462dd43422/purchases-core-common-4.3.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-common/4.3.1/1aac6f79b12dbbc4137323470eb7f462dd43422/purchases-core-common-4.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-common/4.3.1/bbc9a063590da5613831d073b77278bc80bf57b4/purchases-core-common-4.3.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-common/4.3.1/bbc9a063590da5613831d073b77278bc80bf57b4/purchases-core-common-4.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

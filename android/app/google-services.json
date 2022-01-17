@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371904726602",
+    "firebase_url": "https://imaster-6d8d1.firebaseio.com",
+    "project_id": "imaster-6d8d1",
+    "storage_bucket": "imaster-6d8d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371904726602:android:3e83385d5780905a4f88b3",
+        "android_client_info": {
+          "package_name": "com.ridbrain.imaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371904726602-fq8e4onscsajb93sv6ll5v5b20f06i26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOQCUNQ340jg1A-Szy_w4ownQOeG6E2oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371904726602-fq8e4onscsajb93sv6ll5v5b20f06i26.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "371904726602-jotc9g3n9doj4ajua7gctggj9vq1nl1d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.ridbrain.imaster",
+                "app_store_id": "1501899643"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.smartlook.recording:app:1.6.2-flutter@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f04f64804c223d3298bb0d0f3ab0f21/transformed/jetified-app-1.6.2-flutter/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f04f64804c223d3298bb0d0f3ab0f21/transformed/jetified-app-1.6.2-flutter/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4f04f64804c223d3298bb0d0f3ab0f21/transformed/jetified-app-1.6.2-flutter/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

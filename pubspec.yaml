@@ -1,0 +1,59 @@
+name: master
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^1.10.0
+  firebase_analytics: ^8.3.4
+  firebase_messaging: ^11.1.0
+  firebase_auth: ^3.2.0
+
+  http: ^0.13.3
+  provider: ^5.0.0
+  path_provider: ^2.0.2
+
+  introduction_screen: ^2.1.0
+  line_icons: ^2.0.1
+  cupertino_icons: ^1.0.2
+  animated_size_and_fade: ^2.0.0
+  flutter_picker: ^2.0.2
+  image_picker: ^0.8.3+2
+  url_launcher: ^6.0.6
+  advance_pdf_viewer: ^2.0.1
+  cached_network_image: ^3.1.0
+  table_calendar: ^3.0.2
+  animated_widgets: ^1.1.0
+  atob_animation: ^0.0.1
+  animated_check: ^1.0.2
+  pretty_qr_code: ^2.0.2
+  flutter_share: ^2.0.0
+  in_app_review: ^2.0.3
+  shared_preferences: ^2.0.8
+  flutter_app_icon_badge: ^2.0.0
+  purchases_flutter: ^3.4.5
+  package_info_plus: ^1.0.4
+  smartlook: ^2.0.1
+  permission_handler: ^8.2.5
+  fast_contacts: ^1.1.0
+  overlay_support: ^1.2.1
+  google_maps_flutter: ^2.1.1
+  dotted_line: ^3.1.0
+  enhance_stepper: ^0.1.1
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - assets/

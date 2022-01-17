@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.revenuecat.purchases:purchases-hybrid-common:1.9.1@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/cf5586480cfb25e9c184c7f8bd9fd3ad/transformed/jetified-purchases-hybrid-common-1.9.1/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/cf5586480cfb25e9c184c7f8bd9fd3ad/transformed/jetified-purchases-hybrid-common-1.9.1/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/cf5586480cfb25e9c184c7f8bd9fd3ad/transformed/jetified-purchases-hybrid-common-1.9.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/57c0c5e24824e4403364d96d95a2aca8/transformed/jetified-purchases-hybrid-common-1.9.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/57c0c5e24824e4403364d96d95a2aca8/transformed/jetified-purchases-hybrid-common-1.9.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/57c0c5e24824e4403364d96d95a2aca8/transformed/jetified-purchases-hybrid-common-1.9.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-hybrid-common/1.9.1/5539f0f49769f6c64323b1b95dbe5d5186d37929/purchases-hybrid-common-1.9.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-hybrid-common/1.9.1/5539f0f49769f6c64323b1b95dbe5d5186d37929/purchases-hybrid-common-1.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-hybrid-common/1.9.1/16997111d03668d29783eca46f5223352f58c2d5/purchases-hybrid-common-1.9.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-hybrid-common/1.9.1/16997111d03668d29783eca46f5223352f58c2d5/purchases-hybrid-common-1.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>371904726602-jotc9g3n9doj4ajua7gctggj9vq1nl1d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.371904726602-jotc9g3n9doj4ajua7gctggj9vq1nl1d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>371904726602-7r54e9reldm5a27m7hi9cnptm0s7esl6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA7XH_z3iKtanVuHfq7i4C_C98be0H_UTo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>371904726602</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.ridbrain.imaster</string>
+	<key>PROJECT_ID</key>
+	<string>imaster-6d8d1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>imaster-6d8d1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:371904726602:ios:c340d11a50c395bc4f88b3</string>
+	<key>DATABASE_URL</key>
+	<string>https://imaster-6d8d1.firebaseio.com</string>
+</dict>
+</plist>
